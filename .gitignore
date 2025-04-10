@@ -1,0 +1,41 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Ignore Gradle build folder
+**/build/
+
+# Kotlin specific
+*.kotlin_module
+
+# Ignore logs
+*.log
+
+# Ignore Android Studio settings
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/shelf/
+
+# Ignore Jetpack Compose previews cache
+.idea/compose-preview/
+
+# Ignore generated files by KAPT
+**/build/tmp/
+**/build/intermediates/
+**/build/generated/
+
+# MacOS / Windows specific
+Thumbs.db
+ehthumbs.db
