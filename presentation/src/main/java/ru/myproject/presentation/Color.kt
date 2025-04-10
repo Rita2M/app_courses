@@ -1,4 +1,4 @@
-package ru.myproject.appcourses.ui.theme
+package ru.myproject.presentation
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,6 +1,5 @@
-package ru.myproject.appcourses.ui.theme
+package ru.myproject.presentation
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
